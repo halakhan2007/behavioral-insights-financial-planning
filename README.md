@@ -2,6 +2,14 @@
 
 A Python-based data analysis and interactive dashboard project exploring financial planning habits, spending behaviour, saving practices, budgeting and financial awareness among college students.
 
+## 🚀 Live Dashboard
+
+**Explore the deployed application here:**
+
+[Open the Financial Planning Dashboard](https://behavioral-insights-financial-planning-ghwjuc3xqodfindbuc5v3e.streamlit.app/)
+
+Built with Python and Streamlit, the dashboard allows users to explore survey findings, student financial behaviour and interactive data visualisations.
+
 ## 📌 Project Overview
 
 This project investigates how college students plan, spend, save and manage their money.
